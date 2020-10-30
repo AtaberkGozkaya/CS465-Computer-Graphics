@@ -1,0 +1,1 @@
+open koch.html on chrome. (probably it should work on any modern browser anyway but chrome gives very good results) 
